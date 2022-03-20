@@ -1,9 +1,9 @@
 <h1 align="center">Hello guys 👋, I'm João Paulo</h1>
-<h3 align="center">Backend Developer and partner at https://www.bagmarketing.com.br/home.php</h3>
+<h3 align="center">Backend Developer and partner at <a href="https://www.bagmarketing.com.br/home.php">Bag Marketing</a></h3>
 
-- 🔭 I’m currently working on [https://www.bagmarketing.com.br/home.php](https://www.bagmarketing.com.br/home.php)
+- 🔭 I’m currently working on <a href="https://www.bagmarketing.com.br/home.php">Bag Marketing</a>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel** and **Hacking**
 
 - 💬 Ask me about **Backend Development, Counter-Strike, Clothes, Sneakers, Hacking and Soccer**
 
@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/shaiqna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaiqna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiqna&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaiqna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiqna&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
