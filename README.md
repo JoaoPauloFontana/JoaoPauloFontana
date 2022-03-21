@@ -1,7 +1,7 @@
 <h1 align="center">Hello guys 👋, I'm João Paulo</h1>
 <h3 align="center">Backend Developer and partner at <a href="https://www.bagmarketing.com.br/home.php">Bag Marketing</a></h3>
 
-- 🔭 I’m currently working on <a href="https://www.bagmarketing.com.br/home.php">Bag Marketing</a>
+- 🔭 I’m currently working on <a href="https://www.bagmarketing.com.br/home.php">Bag Marketing</a> and <a href="https://www.karjefrastreamento.com.br/">Karjef Rastreamento</a>
 
 - 🌱 I’m currently learning **Laravel** and **Hacking**
 
