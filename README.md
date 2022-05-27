@@ -1,7 +1,7 @@
 <h1 align="center">Hello guys 👋, I'm João Paulo</h1>
 <h3 align="center">Backend Developer at <a href="https://www.bredi.com.br/">Bredi</a></h3>
 
-- 🔭 I’m currently working on <a href="https://www.bagmarketing.com.br/home.php">Bag Marketing</a> and <a href="https://www.bredi.com.br/">BREDI</a> as a back-end developer
+- 💻 I’m currently working on <a href="https://www.bagmarketing.com.br/home.php">Bag Marketing</a> and <a href="https://www.bredi.com.br/">BREDI</a> as a back-end developer
 
 - 📚 I’m currently learning **Laravel** and **Hacking**
 
