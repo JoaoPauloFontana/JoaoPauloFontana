@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on <a href="https://www.bagmarketing.com.br/home.php">Bag Marketing</a> and <a href="https://www.bredi.com.br/">BREDI</a> as a back-end developer
 
-- 📚 I’m currently learning **Laravel** and **Hacking**
+- 📚 I’m currently learning **API** and **Hacking**
 
 - 💬 Ask me about **Backend Development, Counter-Strike, Clothes, Sneakers, Hacking and Soccer**
 
