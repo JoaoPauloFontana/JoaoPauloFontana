@@ -1,30 +1,59 @@
+<br clear="both">
+
 <h1 align="center">Hello guys 👋, I'm João Paulo</h1>
-<h3 align="center">Backend Developer at <a href="https://www.bredi.com.br/">Bredi</a></h3>
 
-- 💻 I’m currently working on <a href="https://www.bagmarketing.com.br/home.php">Bag Marketing</a> and <a href="https://www.bredi.com.br/">BREDI</a> as a back-end developer
+###
 
-- 📚 I’m currently learning **API** and **Hacking**
+<h4 align="center">Backend Developer at Bredi</h4>
 
-- 💬 Ask me about **Backend Development, Counter-Strike, Clothes, Sneakers, Hacking and Soccer**
+###
 
-- 📫 How to reach me: **jpfontana12@icloud.com**
+<p align="left">▶ 💻 I’m currently working on Bag Marketing and BREDI as a back-end developer<br><br>▶ 📚 I’m currently learning API and Hacking<br><br>▶ 💬 Ask me about Backend Development, Counter-Strike, Clothes, Sneakers, Hacking and Soccer<br><br>▶ 📫 How to reach me: jpfontana12@icloud.com<br><br>▶ 🇧🇷 I'm from Brazil</p>
 
-- 🇧🇷 I'm from **Brazil**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fontana_macedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fontana_macedo" height="30" width="40" /></a>
-<a href="https://instagram.com/_jaopaul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jaopaul_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> </p>
-
+###
 
 <div align="center">
-  <a href="https://github.com/shaiqna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaiqna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiqna&layout=compact&langs_count=7&theme=dark"/>
+  <img height="500" src="https://wallpapercave.com/wp/wp2757832.gif"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&username=S" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=S" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-fontana-macedo-641a12214/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/fontana_macedo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/_jaopaul_/?hl=pt-br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<img href="https://raw.githubusercontent.com/S/S/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/S/count.svg?"  />
+</div>
+
+###
