@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">▶ 💻 I’m currently working on Bag Marketing and BREDI as a back-end developer<br><br>▶ 📚 I’m currently learning API and Hacking<br><br>▶ 💬 Ask me about Backend Development, Counter-Strike, Clothes, Sneakers, Hacking and Soccer<br><br>▶ 📫 How to reach me: jpfontana12@icloud.com<br><br>▶ 🇧🇷 I'm from Brazil</p>
+<p align="left">▶ 💻 I’m currently working on Bag Marketing and BREDI as a back-end developer<br><br>▶ 📚 I’m currently learning VUE and Hacking<br><br>▶ 💬 Ask me about Backend Development, Counter-Strike, Clothes, Sneakers, Hacking and Soccer<br><br>▶ 📫 How to reach me: jpfontana12@icloud.com<br><br>▶ 🇧🇷 I'm from Brazil</p>
 
 ###
 
