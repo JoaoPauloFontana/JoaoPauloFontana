@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Backend Developer at Bredi</h4>
+<h4 align="center">Backend Developer at NerdMonster</h4>
 
 ###
 
