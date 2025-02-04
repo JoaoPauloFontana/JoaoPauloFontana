@@ -4,20 +4,11 @@
 
 ###
 
-<h4 align="center">FullStack Developer at X-Apps</h4>
+<h4 align="center">Software Engineer</h4>
 
 ###
 
-<p align="left">▶ 💻 I’m currently working on X-Apps as a fullstack developer<br><br>▶ 📚 I’m currently learning Golang<br><br>▶ 💬 Ask me about Backend Development, Counter-Strike, Clothes, Sneakers, Hacking and Soccer<br><br>▶ 📫 How to reach me: jpfontana12@icloud.com<br><br>▶ 🇧🇷 I'm from Brazil</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-</div>
+<p align="left">▶ 💻 I’m currently working as a Software Engineer<br><br>▶ 📚 I’m currently learning Golang<br><br>▶ 💬 Ask me about Backend Development, Counter-Strike, Clothes, Sneakers, Hacking and Soccer<br><br>▶ 📫 How to reach me: jpfontana12@icloud.com<br><br>▶ 🇧🇷 I'm from Brazil</p>
 
 ###
 
